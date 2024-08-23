@@ -1,5 +1,6 @@
 # R0m4NTAPI
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=NTAPI+injection+MALWARE;Give+the+AV+an+uppercut+" alt="Typing SVG" /></a>
 ## Disclaimer
 R0m4NTAPI is intended for educational purposes only. This tool is designed to help users understand process injection techniques and NTAPI functions within a controlled, legal environment.
 
